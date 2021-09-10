@@ -1,6 +1,8 @@
-# Strapi MySQL - docker-compose
+# 🌈 Strapi MySQL - docker-compose
 
-🌈 Strapi app with MySQL powered by docker-compose
+Strapi app with MySQL powered by docker-compose.
+
+<img src="https://s9.gifyu.com/images/cyyoung.png" alt="cyyoung.png" border="0" />
 
 ## Prerequisites :
 

@@ -2,6 +2,7 @@ version: '3'
 services:
   strapi:
     image: strapi/strapi
+    container_name: strapi_mysql
     environment:
       DATABASE_CLIENT: mysql
       DATABASE_HOST: mysql
